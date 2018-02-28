@@ -1,0 +1,14 @@
+{
+  "name": "cypress-test-1",
+  "version": "1.0.0",
+  "description": "cypress test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thushan Godahewa",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^2.0.4"
+  }
+}

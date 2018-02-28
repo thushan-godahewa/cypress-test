@@ -1,0 +1,33 @@
+{
+    "type": "PAYMENT",
+    "beneficiary": {
+      "entityType": "COMPANY",
+      "address": {
+        "streetAddress": "14141 Harvard Square"
+      },
+      "companyName": "US FX Agency",
+      "paymentAmount": 1000,
+      "paymentDate": "2018-03-01",
+      "feePaidBy": "PAYER",
+      "paymentMethod": "LOCAL",
+      "reason": "Real_estate",
+      "sourceCurrency": "AUD",
+      "reference": "Local Payment US/USD",
+      "payer": {
+        "entityType": "COMPANY",
+        "address": {
+          "streetAddress": "15 William St"
+        },
+        "companyName": "AU FX",
+        "additionalInfo": {
+          "businessRegistrationNumber": "123456789",
+          "personalEmail": "testing@mysampleorg.com "
+        }
+      },
+      "shortReferenceId": "AAAAA-B676B",
+      "status": "NEW",
+      "feeAmount": 3.85,
+      "feeCurrency": "AUD",
+      "paymentId": "0c77ba5b-6f20-48bf-90c3-603a3d62a986"
+    }
+  }

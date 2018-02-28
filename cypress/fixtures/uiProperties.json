@@ -1,0 +1,15 @@
+{
+    "loginLink": "a[href=\"/app/#/login\"]",
+    "loginEmail": "input[formcontrolname=\"email\"]",
+    "loginPassword": "input[formcontrolname=\"password\"]",
+    "loginButton": "button[name=\"loginBtn\"]",
+    "loggedInUserProfile": "div[class=\"email overflow-ellipsis\"]",
+    "paymentsLink": "a[uisref=\"main.payments.new\"]",
+    "paymentsListLink": "a[href=\"#/payments/list\"]",
+    "paymentsListPath": "/payments/list",
+    "filterButtonLabel": "Filters",
+    "paymentIdTextField": "input[name=\"paymentId\"]",
+    "applyFiltersButton": "Apply filters",
+    "paymentIdField": "paymentId",
+    "paymentList": "#PaymentsList_PaymentsTable td"
+}
